@@ -1,3 +1,6 @@
+### 4Mation Update
+LTrent's find time modal was developed on a very specific version of OwlCarousel2. This has been tagged in this repository as 2.0.0-4Mation. When OwlCarousel2 is stable, please update as required.
+
 ### Owl Carousel 2
 version 2.0.0-beta.2.4
 
